@@ -37,6 +37,11 @@ For two assembled PCBs, the cost is around ~70$ for the cheapest shipping option
 
 The code is written using Arduino IDE compiled for an ESP32-C3. Please note that the local host where the web page is hosted depends entirely on your ESP32, so it may not be the same for everyone. Also be sure to input your wifi credentials when flashing so that the ESP32 can connect to WiFi. 
 
+## Fallout Zine Poster
+
+<img src = "./imgs/zineposter.png" alt = "Zine Poster"/>
+
 ## Thanks
 
 Huge thanks to HackClub for helping me with this project!
+
