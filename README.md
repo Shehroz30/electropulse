@@ -29,6 +29,10 @@ To use this device, electrodes are a requirement. To purchase these, you can go 
 
 For the rest of the BOM, see the BOM file attached. 
 
+## JLCBPCB Order
+For two assembled PCBs, the cost is around ~70$ for the cheapest shipping option. Keep in mind that there are a lot of alternatives to the parts selected, so ifsomething is unavailable you can easily change them around within the JLCPCB assembly order.
+<img src = "./imgs/jlcpcborder.png" alt = "Order"/>
+
 ## Firmware
 
 The code is written using Arduino IDE compiled for an ESP32-C3. Please note that the local host where the web page is hosted depends entirely on your ESP32, so it may not be the same for everyone. Also be sure to input your wifi credentials when flashing so that the ESP32 can connect to WiFi. 
