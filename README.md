@@ -24,7 +24,8 @@ A custom, homemade, low voltage, simple TENs device
 
 ## BOM
 To use this device, electrodes are a requirement. To purchase these, you can go to Amazon at [this link](https://www.amazon.com/Best-Sellers-Electrodes/zgbs/industrial/3013606011)
-![Electrodes](./imgs/electrodes.jpg) 
+<img src="./imgs/electrodes.jpg" alt="Electrodes" width="200"/>
+
 
 For the rest of the BOM, see the BOM file attached. 
 
