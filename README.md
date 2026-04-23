@@ -22,6 +22,9 @@ A custom, homemade, low voltage, simple TENs device
 * Go to http://<esp32-ip>/
 * Connect your electrodes to the pin headers
 
+## Motivation
+I made this project because I've been struggling a little bit with knee pain and I found that other options on the market weren't as adjustable. I also had electrodes lying around (due to a separate business pitch project) and I wanted to make use of them
+
 ## BOM
 To use this device, electrodes are a requirement. To purchase these, you can go to Amazon at [this link](https://www.amazon.com/Best-Sellers-Electrodes/zgbs/industrial/3013606011)
 <img src="./imgs/electrodes.jpg" alt="Electrodes" width="200"/>
