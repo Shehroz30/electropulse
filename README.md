@@ -45,3 +45,6 @@ The code is written using Arduino IDE compiled for an ESP32-C3. Please note that
 
 Huge thanks to HackClub for helping me with this project!
 
+
+## Verfication
+Hack Club Username: shehrozmaan4
