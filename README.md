@@ -17,6 +17,10 @@ A custom, homemade, low voltage, simple TENs device
 
 ![PCB](./imgs/meddevelecrbg.png)
 
+## Build
+The build of this device is extremely uncomplicated. Use M3 0.5 inch screws for the enclosure and M2 0.315 inch screws for mounting the PCB. The electrodes can simply be attached to the Pin Headers.
+
+
 ## Use
 * Flash the code onto the ESP32 using Arduino IDE
 * Go to http://<esp32-ip>/
