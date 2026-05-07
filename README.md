@@ -36,7 +36,7 @@ To use this device, electrodes are a requirement. To purchase these, you can go 
 | C5                       | 0603            |          2 | 0.047uF              | C1622       | https://www.lcsc.com/product-detail/C1622.html     |
 | C8                       | 1206            |          2 | 10uF                 | C13585      | https://www.lcsc.com/product-detail/C13585.html    |
 | C10,C11,C12,C13,C6,C7,C9 | 0603            |         18 | 0.1uF                | C14663      | https://www.lcsc.com/product-detail/C14663.html    |
-| C18,C23                  | 0604            |        nan | 100nf                | nan         | nan                                                |
+| C18,C23                  | 0603            |        4   | 100nf                | C14663      | https://www.lcsc.com/product-detail/C14663.html    |
 | C21,C22                  | 0605            |          4 | 10uf                 | C19702      | https://www.lcsc.com/product-detail/C19702.html    |
 | C25,C26,C27              | 0805            |          6 | 22uf                 | C45783      | https://www.lcsc.com/product-detail/C45783.html    |
 | D1                       | SMA(DO-214AC)   |          2 | D_Schottky           | C8678       | https://www.lcsc.com/product-detail/C8678.html     |
