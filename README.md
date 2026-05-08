@@ -23,7 +23,7 @@ The build of this device is extremely uncomplicated. Use M3 0.5 inch screws for 
 
 ## Use
 * Flash the code onto the ESP32 using Arduino IDE
-* Go to http://<esp32-ip>/
+* Go to http://\<ESP-32\_IP\>/
 * Connect your electrodes to the pin headers
 
 ## Motivation
