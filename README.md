@@ -20,6 +20,8 @@ A custom, homemade, low voltage, simple TENs device
 ## Build
 The build of this device is extremely uncomplicated. Use M3 0.5 inch screws for the enclosure and M2 0.315 inch screws for mounting the PCB. The electrodes can simply be attached to the Pin Headers.
 
+A link to the Onshape file can be found [here](https://cad.onshape.com/documents/0b9b685ed737be4511598f4a/w/ba1d33f46afe7a8ff807ef53/e/736e59d6b3c7b8673a0b7fd8?renderMode=0&uiState=69ea24d6e717aaec3b4bf4c2)
+
 
 ## Use
 * Flash the code onto the ESP32 using Arduino IDE
